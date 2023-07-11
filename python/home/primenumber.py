@@ -1,0 +1,3 @@
+primes = []
+
+def isPrime

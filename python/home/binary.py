@@ -1,0 +1,5 @@
+username=input('what is your username?')
+password=input('what is your password?')
+f=open('test.txt','a')
+f.write(username+'\n')
+f.write(password+'\n')
